@@ -1,0 +1,16 @@
+{
+    "name": "riandwj/administrator-pack",
+    "description": "Administrator auth for poersonal",
+    "keywords": ["riandwj"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Rian",
+            "email": "rian.dwj@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "laravel/framework": "5.6.*"
+    }
+}
