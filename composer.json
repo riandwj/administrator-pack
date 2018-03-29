@@ -1,5 +1,6 @@
 {
     "name": "riandwj/administrator-pack",
+    "version": "1.0.0",
     "description": "Administrator auth for poersonal",
     "keywords": ["riandwj"],
     "license": "None",
